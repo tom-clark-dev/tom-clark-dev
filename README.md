@@ -22,6 +22,9 @@ See below for more about me and my skills...
 ![](https://img.shields.io/badge/Code-Umbraco-informational?style=flat&logo=.net&logoColor=white&color=227bb3)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=227bb3)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=227bb3)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=227bb3)
+
+
 <!--
 <details>
 <summary>More Skills</summary>
