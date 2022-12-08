@@ -2,7 +2,9 @@
 
 Hi there! 👋
 
-I'm Tom, welcome to my GitHub profile! There's not much here at the moment but it should grow in time.
+I'm Tom, welcome to my GitHub profile! 🎉
+
+There's not much here at the moment but it should grow in time 🕒
 
 Thanks for taking the time to stop by! 😁 Please see below for more info about me and my skills.
 
