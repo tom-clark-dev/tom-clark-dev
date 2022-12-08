@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Tom's GitHub Banner](./assets/banner-image.jpg)](https://github.com/tom-clark-dev/)
