@@ -19,6 +19,7 @@ See below for more about me and my skills...
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=227bb3)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=227bb3)
 -->
+|----|----|----|----|
 |![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=227bb3)|![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=227bb3)|![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=227bb3)|![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=227bb3)|
 |![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=227bb3)|![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=227bb3)|![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=227bb3)|![](https://img.shields.io/badge/Code-Umbraco-informational?style=flat&logo=.net&logoColor=white&color=227bb3)|
 
