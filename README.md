@@ -1,4 +1,4 @@
-[![Tom's GitHub Banner](./assets/banner-image.jpg)](https://github.com/tom-clark-dev/)
+[![Tom's GitHub Banner](./assets/banner-image-badge.png)](https://github.com/tom-clark-dev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/88-tom-clark/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/tom-clark-dev)
 
